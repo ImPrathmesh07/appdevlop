@@ -31,3 +31,9 @@ void add({a, b}) { // a & b are named parameters (because of the curly braces)
  
 add(b: 5, a: 10); // 5 is used as a value for b, because it's assigned to that name; 10 is used as a value for a
 
+// You can also make named parameters required by using the built-in required keyword:
+
+void add({required a, required b}) { // a & b are no longer optional
+  print(a + b); 
+}  
+
