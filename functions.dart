@@ -1,6 +1,6 @@
 // Here we are creating a function
 
-void add(num1, num2) {
+void add({num1, num2}) {
   num1 + num2;
 
 
