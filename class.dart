@@ -1,3 +1,6 @@
+//This code is adout how we can create class and seprate the code in other from void main to increse the code readability
+
+
 import 'package:flutter/material.dart';
 
 void main() {
