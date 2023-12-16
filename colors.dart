@@ -1,3 +1,6 @@
+// To add app background color
+
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -13,7 +16,7 @@ void main() {
   );
 }
 
-
+//  To change the background color from top to lower(fadding)
 
 import 'package:flutter/material.dart';
 
@@ -37,7 +40,7 @@ void main() {
 }
 
 
-
+// To bring the text in center
 
 import 'package:flutter/material.dart';
 
