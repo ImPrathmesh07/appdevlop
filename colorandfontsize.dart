@@ -1,3 +1,8 @@
+//   This code is for seting the color and fonts of text
+
+
+
+
 import 'package:flutter/material.dart';
 
 void main() {
